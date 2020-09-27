@@ -1,3 +1,13 @@
+# Objective
+
+Our objective is to observe how policies correlate to an increase or decrease in COVID-19 transmission to determine how useful that policy is in real time and provide some concrete feedback to the government regarding the effectiveness of their policies.
+
+## 3 Policies
+### Enforcement of Mask-Wearing
+### Stay-at-Home Order
+### COVID-19 Stimulus Check
+
+* * *
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/leejoongyin/covid19-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
