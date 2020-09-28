@@ -5,7 +5,7 @@ Our objective is to observe how policies correlate to an increase or decrease in
 * * *
 
 ## 3 Policies
-### Enforcement of Mask-Wearing By State
+[### Enforcement of Mask-Wearing By State] (./maskWearing.html)
 
 A list of states that have enacted mask wearing, the date the mask-wearing policy was enacted, and levels of COVID-19 transmission rates before and after the enactment of the mask-wearing policy. (Note: Correlation is not Causation and there are many other factors that we were not able to consider (ie holidays, actual enforcement of policy by retail places, culture, etc.))
 
