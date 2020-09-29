@@ -14,12 +14,20 @@ A list of states that have enacted mask wearing including:
  - levels of COVID-19 transmission rates before the enactment of the mask-wearing policy.
  - levels of COVID-19 transmission rates after the enactment of the mask-wearing policy.
 
+We compiled a list of states that have enacted mask wearing orders, along with the following information for each state:
+- date the mask-wearing policy was enacted
+- avg. levels of COVID-19 transmission rates before the enactment of the mask-wearing policy (note: future implementation)
+- current average levels of COVID-19 transmission rates per 100,000 people
+
+
 ### [Stay-at-Home Order](https://docs.google.com/spreadsheets/d/1maS6UmTHeOw9ijXwb9JTuqOWdV6z_ClcpDrU1et1P2g/edit#gid=0)
 
-A list of states that have enacted stay-at-home orders including:
- - the date that the stay-at-home order was enacted
- - levels of COVID-19 transmission rates before the enactment of the stay-at-home order
- - levels of COVID-19 transmission rates after the enactment of the stay-at-home order
+We compiled a list of states that have enacted stay-at-home orders, along with current rates of COVID-19 per 100,000 individuals.
+ 
+Average number of cases per 100,000 individuals
+7 States with no stay-at-home order: 1856.5 / 100,000 (1.8%)
+45 States with stay-at-home order: 2641.5 / 100,000 (2.6%)
+
 
 * * *
 
