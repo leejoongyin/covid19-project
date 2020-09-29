@@ -9,11 +9,6 @@ Our objective is to observe how policies correlate to an increase or decrease in
 ## Main Policies
 ### [Enforcement of Mask-Wearing By State](https://docs.google.com/spreadsheets/d/1maS6UmTHeOw9ijXwb9JTuqOWdV6z_ClcpDrU1et1P2g/edit#gid=0)
 
-A list of states that have enacted mask wearing including:
- - the date the mask-wearing policy was enacted
- - levels of COVID-19 transmission rates before the enactment of the mask-wearing policy.
- - levels of COVID-19 transmission rates after the enactment of the mask-wearing policy.
-
 We compiled a list of states that have enacted mask wearing orders, along with the following information for each state:
 - date the mask-wearing policy was enacted
 - avg. levels of COVID-19 transmission rates before the enactment of the mask-wearing policy (note: future implementation)
