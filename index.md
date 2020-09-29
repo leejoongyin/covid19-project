@@ -6,24 +6,20 @@ Our objective is to observe how policies correlate to an increase or decrease in
 
 * * *
 
-## 3 Main Policies
-### [Enforcement of Mask-Wearing By State](./maskWearing.html)
+## Main Policies
+### [Enforcement of Mask-Wearing By State](https://docs.google.com/spreadsheets/d/1maS6UmTHeOw9ijXwb9JTuqOWdV6z_ClcpDrU1et1P2g/edit#gid=0)
 
 A list of states that have enacted mask wearing including:
  - the date the mask-wearing policy was enacted
  - levels of COVID-19 transmission rates before the enactment of the mask-wearing policy.
  - levels of COVID-19 transmission rates after the enactment of the mask-wearing policy.
 
-### [Stay-at-Home Order](./stayAtHome.html)
+### [Stay-at-Home Order](https://docs.google.com/spreadsheets/d/1maS6UmTHeOw9ijXwb9JTuqOWdV6z_ClcpDrU1et1P2g/edit#gid=0)
 
 A list of states that have enacted stay-at-home orders including:
  - the date that the stay-at-home order was enacted
  - levels of COVID-19 transmission rates before the enactment of the stay-at-home order
  - levels of COVID-19 transmission rates after the enactment of the stay-at-home order
-
-### [COVID-19 Stimulus Check](./stimCheck.html)
-
-A compilation of the number of cases 2 months before and 2 months after the enactment of the COVID-19 Stimulus Check to see if the distribution of the check had any effect on COVID-19 transmission. The 2 month scale was chosen to reflect the amount of money distributed from the stimulus check, with the assumption that most people would spend the bulk of the check within the first month for basic necessities(food, water, rent, etc).
 
 * * *
 
